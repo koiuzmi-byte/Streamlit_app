@@ -24,7 +24,7 @@ Pillow
 pkgutil-resolve-name
 protobuf
 pyarrow
-pydeck=
+pydeck
 Pygments
 Pympler
 pyrsistent
