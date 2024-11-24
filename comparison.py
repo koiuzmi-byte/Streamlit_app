@@ -3,7 +3,7 @@ from utils import image_comparison
 
 with st.sidebar:
     st.set_page_config(
-        page_title="Streamlit Image Comparison",
+        page_title="Streamlit Image Comparison　小泉",
         page_icon="🔥",
         layout="centered",
         initial_sidebar_state="auto",
