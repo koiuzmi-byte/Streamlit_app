@@ -22,9 +22,9 @@ with st.sidebar:
 
     with st.form(key="Streamlit Image Comparison"):
         # image one inputs
-        img1_url = st.file_uploader("Image 1", accept_multiple_files=False)
+        img1_url = st.file_uploader("画像 1", accept_multiple_files=False)
         # image two inputs
-        img2_url = st.file_uploader("Image 2", accept_multiple_files=False)
+        img2_url = st.file_uploader("画像 2", accept_multiple_files=False)
         
         # continious parameters
         col1, col2 = st.columns([1, 1])
