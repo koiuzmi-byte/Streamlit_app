@@ -12,7 +12,7 @@ with st.sidebar:
     st.markdown(
         """
         <h2 style='text-align: center'>
-        Streamlit Image Comparison Demo
+        Streamlit Image Comparison Demo　小泉
         </h2>
         """,
         unsafe_allow_html=True,
